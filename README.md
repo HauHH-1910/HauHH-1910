@@ -1,3 +1,4 @@
+![logo](https://cdn.discordapp.com/attachments/1090895809098289185/1099686590680416306/wallhaven-9mjoy1_1920x1080.png)
 <h1 align="center">Hi 👋, I'm Hải Hậu</h1>
 <h3 align="center">A student trying to become a software engineer</h3>
 
